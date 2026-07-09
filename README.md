@@ -27,6 +27,8 @@ Python internship assignments completed during the MirAI AI Builder Internship.
 
 ## Run
 
-streamlit run app.py
-streamlit run calculator.py
-streamlit run identityechointerface.py
+- streamlit run app.py
+
+- streamlit run calculator.py
+
+- streamlit run identityechointerface.py
