@@ -1,6 +1,6 @@
 import streamlit as st
 st.title("ist created chatbot")
-personality=st.selectbox("who do u wantto talk to",["a Muslim imam","friendly","sarcastic","professional"], index=None , placeholder="select your personality")
+personality=st.selectbox("who do u wantto talk to",["friendly","sarcastic","professional"], index=None , placeholder="select your personality")
 from google import genai
 import os 
 from dotenv import load_dotenv
