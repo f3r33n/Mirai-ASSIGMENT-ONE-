@@ -44,3 +44,10 @@ Python internship assignments completed during the MirAI AI Builder Internship.
 - streamlit run calculator.py
 
 - streamlit run identityechointerface.py
+
+
+
+
+## 📄 License
+
+This project was created for educational purposes as part of the **MirAI School of Technology AI Builder Internship 2026**.
